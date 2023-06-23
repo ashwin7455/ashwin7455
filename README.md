@@ -5,7 +5,7 @@
 - 📫 How to reach me: Mail me at ashwinyaadav@gmail.com
 - ⚡ Fun fact: I am more fascinated by the Gym and Workout, exercising in my free time, and listening to songs.
 
-💻 Tech Stack:
+ ### 📊 Tech Stats:
 
 
 
