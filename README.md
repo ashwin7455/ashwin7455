@@ -27,6 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin7455&" alt="ashwin7455" /></p>
 
+ <h2 align="left"> 🏆 GitHub Trophies </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwin7455" alt="ashwin7455" /></a> </p>
 
 
