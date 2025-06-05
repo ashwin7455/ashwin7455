@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Ashwin Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **the JS library React.js and framework Next.js / Redux basically Frontend Development and will switch to the backend very soon**
+- 🔭 I’m currently working on **the JS library React.js / Redux basically Frontend Development and will switch to the backend very soon**
 
 - 🌱 I’m currently learning **Data Structures**
 
